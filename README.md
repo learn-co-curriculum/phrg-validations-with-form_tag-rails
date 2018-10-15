@@ -251,4 +251,8 @@ we can't even begin to use more powerful tools like `form_for` correctly.
 Next, we'll dive into a lab using `form_tag` and artisanally craft our own
 markup.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-validations-with-form_tag-rails/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-validations-with-form_tag-rails/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Validations with `form_tag`</p>
